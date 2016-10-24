@@ -1,5 +1,5 @@
 import {App} from '../../src/app';
-import {TestHelper} from "../utils/testHelper";
+import {TestHelper} from "../utils/helper";
 
 describe('the app', () => {
   it('says hello', () => {
